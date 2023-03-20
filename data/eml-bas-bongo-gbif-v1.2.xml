@@ -1,0 +1,444 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="https://ipt-demo.gbif.es/resource?id=bas-bongo-gbif/v1.2" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>402c81b6-8d69-4650-8826-92f91d2728a7</alternateIdentifier>
+  <alternateIdentifier>https://ipt-demo.gbif.es/resource?r=bas-bongo-gbif</alternateIdentifier>
+  <title xml:lang="eng">Epipelagic mesozooplankton distribution and abundance in Southern Ocean Atlantic sector and the North Atlantic and Arctic 1996-2013</title>
+      <creator>
+    <individualName>
+        <givenName>Peter</givenName>
+      <surName>Ward</surName>
+    </individualName>
+    <organizationName>British Antarctic Survey</organizationName>
+    <positionName>Investigator</positionName>
+    <address>
+        <deliveryPoint>High Cross, Madingley Road</deliveryPoint>
+        <city>Cambridge</city>
+        <postalCode>CB3 0ET</postalCode>
+        <country>GB</country>
+    </address>
+          <userId directory="http://orcid.org/">0000-0001-8260-1077</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Geraint</givenName>
+      <surName>Tarling</surName>
+    </individualName>
+    <organizationName>British Antarctic Survey</organizationName>
+    <positionName>Investigator</positionName>
+    <address>
+        <deliveryPoint>High Crosss, Madingley Road</deliveryPoint>
+        <city>Cambridge</city>
+        <postalCode>CB3 0ET</postalCode>
+        <country>GB</country>
+    </address>
+          <userId directory="http://orcid.org/">0000-0002-3753-5899</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Rachael</givenName>
+      <surName>Shreeve</surName>
+    </individualName>
+    <organizationName>British Antarctic Survey</organizationName>
+    <positionName>Investigator</positionName>
+    <address>
+        <deliveryPoint>High Cross, Madingley Road</deliveryPoint>
+        <city>Cambridge</city>
+        <postalCode>CB3 0ET</postalCode>
+        <country>GB</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Petraaaaaaa</givenName>
+      <surName>ten Hoopen</surName>
+    </individualName>
+    <organizationName>British Antarctic Survey</organizationName>
+    <positionName>Investigator</positionName>
+    <address>
+        <deliveryPoint>High Cross, Madingley Road</deliveryPoint>
+        <city>Cambridge</city>
+        <postalCode>CB3 0ET</postalCode>
+        <country>GB</country>
+    </address>
+          <userId directory="http://orcid.org/">0000-0003-4242-4015</userId>
+      </creator>
+      <metadataProvider>
+    <organizationName>UK Polar Data Centre</organizationName>
+    <address>
+        <deliveryPoint>High Cross, Madingley Road</deliveryPoint>
+        <city>Cambridge</city>
+        <postalCode>CB3 0ET</postalCode>
+        <country>GB</country>
+    </address>
+    <electronicMailAddress>polardatacentre@bas.ac.uk</electronicMailAddress>
+    <onlineUrl>https://www.bas.ac.uk/data/uk-pdc/</onlineUrl>
+      </metadataProvider>
+      <associatedParty>
+    <organizationName>UK Polar Data Centre</organizationName>
+    <address>
+        <deliveryPoint>High Cross, Madingley Road</deliveryPoint>
+        <city>Cambridge</city>
+        <postalCode>CB3 0ET</postalCode>
+        <country>GB</country>
+    </address>
+    <electronicMailAddress>polardatacentre@bas.ac.uk</electronicMailAddress>
+    <onlineUrl>https://www.bas.ac.uk/data/uk-pdc/</onlineUrl>
+    <role>custodianSteward</role>
+      </associatedParty>
+      <associatedParty>
+    <organizationName>UK Polar Data Centre</organizationName>
+    <address>
+        <deliveryPoint>High Cross, Madingley Road</deliveryPoint>
+        <city>Cambridge</city>
+        <postalCode>CB3 0ET</postalCode>
+        <country>GB</country>
+    </address>
+    <electronicMailAddress>polardatacentre@bas.ac.uk</electronicMailAddress>
+    <onlineUrl>https://www.bas.ac.uk/data/uk-pdc/</onlineUrl>
+    <role>distributor</role>
+      </associatedParty>
+      <associatedParty>
+    <organizationName>UK Polar Data Centre</organizationName>
+    <address>
+        <deliveryPoint>High Cross, Madingley Road</deliveryPoint>
+        <city>Cambridge</city>
+        <postalCode>CB3 0ET</postalCode>
+        <country>GB</country>
+    </address>
+    <electronicMailAddress>polardatacentre@bas.ac.uk</electronicMailAddress>
+    <onlineUrl>https://www.bas.ac.uk/data/uk-pdc/</onlineUrl>
+    <role>publisher</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Angus</givenName>
+      <surName>Atkinson</surName>
+    </individualName>
+    <organizationName>British Antarctic Survey</organizationName>
+    <positionName>Investigator</positionName>
+    <address>
+        <deliveryPoint>High Cross, Madingley Road</deliveryPoint>
+        <city>Cambridge</city>
+        <postalCode>CB3 0ET</postalCode>
+        <country>GB</country>
+    </address>
+          <userId directory="http://orcid.org/">0000-0002-5931-4325</userId>
+    <role>contentProvider</role>
+      </associatedParty>
+  <pubDate>
+      2021-04-30
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>Mesozooplankton were collected with a motion-compensated Bongo net (61 cm mouth diameter, 100 and 200 micrometre meshes) and a mini- Bongo net (18 cm mouth diameter, 50 micrometre mesh nets). Both nets fished to a maximum depth of 400 m but sometimes shallower. Specimens were categorised to the lowest possible taxonomic level, which in some cases encompassed developmental stages but in other cases was limited to higher order taxa. Each taxa was enumerated to determine abundance in units of individuals m-2. The dataset allows examination of the distribution and abundance of these species within the Atlantic sector of the Southern Ocean over a number of years and covering much of the productive season from spring to autumn. The data for the North Atlantic and Arctic covers one season only (summer) and is limited to providing a spatial perspective on the distribution and abundance of mesozooplankton.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Samplingevent</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>&quot;EARTH SCIENCE&quot;</keyword>
+            <keyword>&quot;BIOSPHERE&quot;</keyword>
+            <keyword>&quot;ECOLOGICAL DYNAMICS&quot;</keyword>
+            <keyword>&quot;COMMUNITY DYNAMICS&quot;</keyword>
+            <keyword>&quot;BIODIVERSITY FUNCTIONS&quot;</keyword>
+        <keywordThesaurus>http://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/sciencekeywords/?format=xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>&quot;ECOSYSTEMS&quot;</keyword>
+            <keyword>&quot;AQUATIC ECOSYSTEMS&quot;</keyword>
+            <keyword>&quot;PLANKTON&quot;</keyword>
+            <keyword>&quot;ZOOPLANKTON&quot;</keyword>
+        <keywordThesaurus>http://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/sciencekeywords/?format=xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>&quot;OCEANS&quot;</keyword>
+            <keyword>&quot;MARINE ENVIRONMENT MONITORING&quot;</keyword>
+        <keywordThesaurus>http://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/sciencekeywords/?format=xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Samplingevent</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+  <additionalInfo>
+    <para>marine, harvested by iOBIS</para>
+  </additionalInfo>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://doi.org/10.5285/5a711904-ef42-46a3-9f47-3f0d6b231f65</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Southern Ocean, Atlantic Sector
+North Atlantic Ocean, Arctic</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-69.3</westBoundingCoordinate>
+          <eastBoundingCoordinate>-25.8</eastBoundingCoordinate>
+          <northBoundingCoordinate>-47.9</northBoundingCoordinate>
+          <southBoundingCoordinate>-65</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2006-11-06</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2013-02-04</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Animalia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Chromista</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Protozoa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Annelida</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Arthropoda</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Bryozoa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Chaetognatha</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Chordata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Ciliophora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Cnidaria</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Ctenophora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Echinodermata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Foraminifera</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Mollusca</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Nemertea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Ochrophyta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Phoronida</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Rotifera</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Sarcomastigophora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Appendicularia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Ascidiacea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Bacillariophyceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Bivalvia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Branchiopoda</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Gastropoda</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Gymnolaemata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Hexanauplia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Holothuroidea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Hydrozoa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Malacostraca</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Oligotrichea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Ophiuroidea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Ostracoda</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Polychaeta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Thaliacea</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <organizationName>UK Polar Data Centre</organizationName>
+    <address>
+        <deliveryPoint>High Cross, Madingley Road</deliveryPoint>
+        <city>Cambridge</city>
+        <postalCode>CB3 0ET</postalCode>
+        <country>GB</country>
+    </address>
+    <electronicMailAddress>polardatacentre@bas.ac.uk</electronicMailAddress>
+    <onlineUrl>https://www.bas.ac.uk/data/uk-pdc/</onlineUrl>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>All species were identified according to the taxonomic guides available at time of analysis and the user must be aware that some species names may have since been updated.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Data were gathered on a series of oceanographic cruises aboard the RRS James Clark Ross during expeditions to the Atlantic Sector of the Southern Ocean and the North Atlantic/Arctic.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Samples were retrieved by either a motion compensation Bongo net or a mini Bongo net, and then preserved with Borax buffered 10% formalin for analysis back at the home laboratory. Taxa were identified through examination by light microscopy. The abundance of each taxa within a sample was determined through examining a known fraction of the sample and then making an inverse multiplication of that fraction. Known fractions were principally achieved through the use of a Folsom splitter. Volumetric abundances (individuals m-2) were determined through dividing sample abundance by the volume of water sampled by the respective net. Net volume was mainly derived through multiplying the net opening diameter by the maximum depth of sampling. This calculation assumes 100% net sampling efficiency and that specimens were only captured during the ascent phase of the net deployment.</para>
+        </samplingDescription>
+      </sampling>
+  </methods>
+  <project >
+    <title>Polar Science for Planet Earth</title>
+      <personnel>
+        <individualName>
+            <givenName>Peter</givenName>
+          <surName>Ward</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0001-8260-1077</userId>
+        <role>principalInvestigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Geraint</givenName>
+          <surName>Tarling</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0002-3753-5899</userId>
+        <role>principalInvestigator</role>
+      </personnel>
+      <funding>
+        <para>Natural Environment Research Council, UK Research &amp; Innovation</para>
+      </funding>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2020-03-23T10:50:35.726+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.5285/5A711904-EF42-46A3-9F47-3F0D6B231F65">Ward, P., Tarling, G., Shreeve, R., &amp; ten Hoopen, P. (2020). Epipelagic mesozooplankton distribution and abundance in Southern Ocean Atlantic sector and the North Atlantic and Arctic 1996-2013 [Data set]. UK Polar Data Centre, Natural Environment Research Council, UK Research &amp; Innovation. https://doi.org/10.5285/5A711904-EF42-46A3-9F47-3F0D6B231F65</citation>
+          <bibliography>
+                <citation identifier="https://doi.org/10.1016/j.dsr2.2011.10.001">Tarling GA, Ward P, Atkinson A, Collins MA, Murphy EJ (2012) Editorial: DISCOVERY 2010: Spatial and temporal variability in a dynamic polar ecosystem. Deep-Sea Res. II 59-60:1-13.</citation>
+                <citation identifier="https://doi.org/10.1016/j.dsr2.2016.02.009">Tyrrell T, Tarling GA, Leakey R, Cripps G, Thorpe S, Richier S, Moore CM (2016) Impacts of surface ocean acidification in polar seas and globally: a field-based approach. Deep-Sea Res. II 127:1-6.</citation>
+          </bibliography>
+            <physical>
+              <objectName>original database</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>oracle database</formatName>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">http://apex.nerc-bas.ac.uk/f?p=163:1</url>
+                </online>
+              </distribution>
+            </physical>
+            <physical>
+              <objectName>original dataset</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>comma separated values (csv)</formatName>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">https://ramadda.data.bas.ac.uk/repository/entry/show?entryid=5a711904-ef42-46a3-9f47-3f0d6b231f65</url>
+                </online>
+              </distribution>
+            </physical>
+          <dc:replaces>https://ipt-demo.gbif.es/resource?id=bas-bongo-gbif/v1.2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
