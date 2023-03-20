@@ -1,9 +1,9 @@
 {
     "id": "B54C688B",
-    "path": "~/Library/CloudStorage/GoogleDrive-ajperez@go.ugr.es/My Drive/_cursos/2023_GBIF_DataPapers/teach_dp_ipt2dp/ipt2dp.qmd",
-    "project_path": "ipt2dp.qmd",
+    "path": "~/Library/CloudStorage/GoogleDrive-ajperez@go.ugr.es/My Drive/_cursos/2023_GBIF_DataPapers/teach_dp_ipt2dp/index.qmd",
+    "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2864237753",
     "contents": "",
     "dirty": false,
     "created": 1679329923760.0,
@@ -16,11 +16,11 @@
         "scrollLine": "92"
     },
     "folds": "",
-    "lastKnownWriteTime": 1679330084,
+    "lastKnownWriteTime": 1679330868,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1679330084582,
+    "last_content_update": 1679330868876,
     "read_only": false,
     "read_only_alternatives": []
 }
