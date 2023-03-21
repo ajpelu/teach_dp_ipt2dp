@@ -10,25 +10,12 @@ editor:
   render-on-save: true
 ---
 
-## ¿Qué estructura ha de tener un Data Paper? 
+## Introducción
 
-- Imagen Candela et al. 
-- 
+- Calidad de los [metadados]{.yellow}
 
+  - Nivel de *completitud* 
 
-## ¿Qué estructura ha de tener un Data Paper?
-
-- No existe una plantilla/guía estándar para la publicación de DP
-
-
-
-- Depende de la Revista
-- Depende de la Temática 
-
-
-
-  - Nivel de *completitud*
-  
 - Encontrar [solución óptima]{.yellow}
   - herramientas 
   - Metadatos Enriquecidos: 
